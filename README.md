@@ -3,7 +3,7 @@
 Colab link:
 https://colab.research.google.com/drive/1l0qnwW2H5YQHWcQnVtYw-Pr5YErXZU7I?usp=sharing
 
-Or access the `main.ipynb` under the repo.
+Or access the `main.ipynb` under the repo. 
 
 ## Data Loading
 If you want to get the direct open sources of Yelp Dataset, please access the link: https://www.yelp.com/dataset. 
