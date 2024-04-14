@@ -84,4 +84,4 @@ m
 
 ## More Information and details
 
-For more theoretical explanation, please check the written documentation in this Github repo.
+For more theoretical explanation, please check the written documentation `Appendix.pdf` in this Github repo.
